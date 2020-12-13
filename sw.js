@@ -3,6 +3,10 @@ urlsToCache = [
     './',
     'estilo.css',
     'app.js',
+    'android-chrome-192x192.png',
+    'android-chrome-512x512.png',
+    'favicon-32x32.png',
+    'favicon-16x16.png',
     
 ]
 
