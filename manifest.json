@@ -1,15 +1,15 @@
 {
-"name":"#calculadora",
-"short_name":"#calculadora",
-"description": "#calculadora para el ssu",
-"background_color": "#79a3b1",
-"theme_color": "#456268",
-"orientation": "portrait",
-"display": "standalone",
-"start_url": "./?utm_source=web_app_manifest",
-"scope": "./",
-"lang": "es-MX",
-"icons": [
+  "name": "Calculadora Funciones Básicas",
+  "short_name": "Calculadora Básica",
+  "description": "AplicaciónSS JS Responsive",
+  "background_color": "#4A4645",
+  "theme_color": "#4A4645",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
     {
       "src": "./favicon_io/android-chrome-512x512.png",
       "sizes": "512x512",
@@ -32,4 +32,3 @@
     }
   ]
 }
-
