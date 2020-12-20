@@ -1,4 +1,4 @@
-const cache_name = 'cache3',
+const cache_name = 'cache4',
   urlsToCache = [
     './',
     'estilo.css',
@@ -7,6 +7,7 @@ const cache_name = 'cache3',
     'favicon_io/android-chrome-512x512.png',
     'favicon_io/favicon-32x32.png',
     'favicon_io/favicon-16x16.png',
+    'favicon_io/favicon.ico',
   ];
 
 //para funcionar sin conexion
