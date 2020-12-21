@@ -1,6 +1,6 @@
 const cache_name = 'cache4',
   urlsToCache = [
-    './',
+    'index.html',
     'estilo.css',
     'app.js',
     'favicon_io/android-chrome-192x192.png',
